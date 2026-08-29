@@ -401,7 +401,9 @@ The bar chart compares nucleotide substitutions such as `G>A`, `C>T`, etc.
 
 The second chart shows the frequency of nucleotides found at detected SNP positions.
 
----
+## 📊 Visualization
+
+![SNP Analyzer Visualization](snp_analyzer.png)
 
 # 📝 Final SNP Summary
 
@@ -509,8 +511,8 @@ The program will display:
 SNP-Detection-Analyzer/
 │
 ├── SNP_Analyzer.py
-├── SNP_Analyzer.png
 ├── README.md
+├── SNP_Analyzer.png
 └── requirements.txt
 ```
 
