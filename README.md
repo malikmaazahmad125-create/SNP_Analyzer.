@@ -510,8 +510,8 @@ The program will display:
 ```text
 SNP-Detection-Analyzer/
 │
+├── README.md 
 ├── SNP_Analyzer.py
-├── README.md
 ├── SNP_Analyzer.png
 └── requirements.txt
 ```
